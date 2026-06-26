@@ -264,6 +264,20 @@
             border-top-color: rgba(0, 123, 255, 0.95) !important;
         }
 
+        /* Bench tooltip styling */
+        .bench-tooltip {
+            background: rgba(76, 175, 80, 0.95) !important;
+            color: white !important;
+            border-radius: 4px;
+            padding: 8px 12px !important;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+        
+        .bench-tooltip::before {
+            border-top-color: rgba(76, 175, 80, 0.95) !important;
+        }
+
         /* Cycling network tooltip styling */
         .cycling-tooltip {
             background: rgba(255, 107, 53, 0.95) !important;
@@ -1002,6 +1016,19 @@
         </div>
     </div>
 
+    <div class="modal-overlay" id="modal-benchFacilities">
+        <div class="modal-box">
+            <button class="modal-close-btn" aria-label="Close modal">&times;</button>
+            <h3 class="modal-title">Benches</h3>
+            <div class="modal-content" id="content-benchFacilities">
+                Locations of benches within the park. Click on the icon to view details of the bench.
+                <hr>
+                Bench data comes from OpenStreetMap (https://www.openstreetmap.org/) © OpenStreetMap contributors.
+                Benches are filtered to only show those mapped within the park boundaries.
+                For more information, see https://www.openstreetmap.org/copyright.
+        </div>
+    </div>
+
     <div class="modal-overlay" id="modal-cyclingRoutes">
         <div class="modal-box">
             <button class="modal-close-btn" aria-label="Close modal">&times;</button>
@@ -1566,6 +1593,34 @@
                 
                 // Store for use in tooltip generation
                 mapState.parksWithToilets = parksWithToilets;
+                
+                // Check which parks have bench data available
+                const parksWithBenches = new Set();
+                try {
+                    // Try to fetch the bench dataset directory listing
+                    // We'll check each park's bench file existence asynchronously
+                    const benchChecks = parks.map(async (park) => {
+                        try {
+                            const benchFilename = `bench_dataset/${park.id}.geojson`;
+                            const response = await fetch(`${authPath}${benchFilename}`);
+                            if (response.ok) {
+                                parksWithBenches.add(park.id);
+                            }
+                        } catch (error) {
+                            // File doesn't exist or can't be checked, skip
+                        }
+                    });
+                    
+                    // Wait for all bench checks to complete
+                    await Promise.all(benchChecks);
+                    console.log(`Parks with bench data: ${parksWithBenches.size}`);
+                    console.log(`Park IDs with benches:`, Array.from(parksWithBenches));
+                } catch (error) {
+                    console.log('Could not check for bench datasets');
+                }
+                
+                // Store for use in tooltip generation
+                mapState.parksWithBenches = parksWithBenches;
                 
                 // Remove existing all parks layer
                 if (mapState.allParksLayer) {
