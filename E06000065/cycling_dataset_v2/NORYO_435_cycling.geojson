@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_435_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 685433731, "highway": "track", "name": "Broughton Lane", "category": "Track", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8257179, 54.1425185 ], [ -0.8253374, 54.1437073 ], [ -0.8251295, 54.1445919 ], [ -0.8245287, 54.1465934 ], [ -0.8244952, 54.1468345 ], [ -0.824435, 54.1472307 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 496699995, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8230701, 54.1473576 ], [ -0.822848, 54.1473342 ], [ -0.8220247, 54.1472548 ], [ -0.8211663, 54.1471715 ], [ -0.8194375, 54.1469694 ], [ -0.8183129, 54.146753 ], [ -0.8182367, 54.1467199 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 496699998, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8240871, 54.1474354 ], [ -0.8237637, 54.1474076 ], [ -0.8236447, 54.1474182 ], [ -0.8230701, 54.1473576 ] ] } }
+]
+}

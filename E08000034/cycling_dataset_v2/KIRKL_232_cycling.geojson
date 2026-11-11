@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_232_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 854603600, "highway": "bridleway", "name": "Pilling Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6238872, 53.5946581 ], [ -1.6239084, 53.5947345 ], [ -1.6240731, 53.5953005 ], [ -1.624089, 53.5955179 ], [ -1.6240842, 53.5957547 ], [ -1.6241108, 53.5958306 ], [ -1.6241227, 53.5958734 ], [ -1.6241292, 53.5959251 ], [ -1.6240595, 53.5959625 ], [ -1.6239267, 53.5959968 ], [ -1.6232658, 53.5960521 ], [ -1.6224169, 53.5961398 ], [ -1.6219455, 53.5961819 ], [ -1.6217545, 53.5961835 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1102860846, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6452505, 53.5841124 ], [ -1.6451554, 53.5841048 ], [ -1.6441375, 53.5841798 ], [ -1.6438278, 53.5840803 ], [ -1.6404327, 53.5824177 ], [ -1.6401408, 53.5823227 ], [ -1.6398989, 53.58214 ], [ -1.6397627, 53.581874 ], [ -1.6396352, 53.5816131 ], [ -1.6397607, 53.5815382 ], [ -1.6397527, 53.5814642 ], [ -1.6399888, 53.5812643 ], [ -1.640721, 53.5807851 ], [ -1.6408944, 53.5806548 ], [ -1.6410041, 53.5804405 ], [ -1.6410671, 53.5801348 ], [ -1.6409947, 53.5799061 ], [ -1.6409056, 53.5798336 ] ] } }
+]
+}

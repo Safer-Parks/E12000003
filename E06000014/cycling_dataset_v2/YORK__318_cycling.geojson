@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "YORK__318_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 191346757, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": "restricted_byway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9811021, 53.9366046 ], [ -0.9820888, 53.9360928 ], [ -0.9830385, 53.9355712 ], [ -0.9846306, 53.9347121 ], [ -0.986273, 53.9338759 ], [ -0.9871561, 53.9334628 ], [ -0.9877217, 53.9331894 ], [ -0.9882854, 53.9328864 ], [ -0.988699, 53.9326998 ], [ -0.9887313, 53.9326855 ], [ -0.9892955, 53.9324359 ], [ -0.9896423, 53.9322941 ], [ -0.9900985, 53.93216 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 451700819, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9902572, 53.932089 ], [ -0.9903082, 53.9320525 ], [ -0.9905916, 53.9318995 ], [ -0.9909297, 53.9317516 ], [ -0.9912149, 53.9316331 ], [ -0.9917183, 53.9314158 ], [ -0.9929726, 53.9308848 ], [ -0.9936983, 53.9305662 ], [ -0.9940998, 53.9303987 ], [ -0.995877, 53.9299027 ], [ -0.9967738, 53.9296326 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 451700820, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.990207, 53.9321216 ], [ -0.9902572, 53.932089 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 437070547, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9900985, 53.93216 ], [ -0.990207, 53.9321216 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_281_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 227351654, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0405115, 53.4792313 ], [ -1.040352, 53.4793013 ], [ -1.0403343, 53.4793295 ], [ -1.0402761, 53.4794221 ], [ -1.0403235, 53.4796161 ], [ -1.0405435, 53.4797594 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 375057812, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0405435, 53.4797594 ], [ -1.042266, 53.4828887 ], [ -1.0427953, 53.4837843 ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WAKEF_26_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 353919855, "highway": "bridleway", "name": "Bates  Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2920382, 53.678923 ], [ -1.2918185, 53.6788593 ], [ -1.2916246, 53.6788031 ], [ -1.2908173, 53.6785924 ], [ -1.2907613, 53.6785619 ], [ -1.290718, 53.6784939 ], [ -1.2913682, 53.6778044 ], [ -1.2919443, 53.6774412 ], [ -1.2922594, 53.6772391 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 929549642, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2935433, 53.6793875 ], [ -1.2925318, 53.6793671 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 156399228, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2982604, 53.6812718 ], [ -1.2981262, 53.6812159 ], [ -1.2970641, 53.680773 ], [ -1.2969783, 53.6806269 ], [ -1.2969313, 53.6805805 ], [ -1.2968174, 53.680468 ], [ -1.2967579, 53.680453 ], [ -1.2964375, 53.6803724 ], [ -1.2961593, 53.6802959 ], [ -1.2959095, 53.6801587 ], [ -1.2956036, 53.679999 ], [ -1.2946844, 53.6797183 ], [ -1.2937074, 53.6794403 ], [ -1.2935433, 53.6793875 ], [ -1.2926546, 53.6791017 ], [ -1.2920382, 53.678923 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 235286113, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2969313, 53.6805805 ], [ -1.2978945, 53.6807628 ], [ -1.2986357, 53.6809519 ], [ -1.2986951, 53.6810141 ] ] } }
+]
+}

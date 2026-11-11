@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_67_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1076704717, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4885593, 54.1380153 ], [ -1.4871887, 54.1369229 ], [ -1.48662, 54.1364012 ], [ -1.4861667, 54.1358154 ], [ -1.4859656, 54.1355653 ], [ -1.4855739, 54.1351942 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 690923481, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4736704, 54.1444586 ], [ -1.4754733, 54.1462515 ], [ -1.4764926, 54.1470433 ], [ -1.4769217, 54.1474014 ], [ -1.4796249, 54.1505599 ] ] } }
+]
+}

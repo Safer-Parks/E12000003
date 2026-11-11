@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_156_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 557312425, "highway": "pedestrian", "name": "Moorside Road", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6587006, 53.6999028 ], [ -1.6586343, 53.6998826 ], [ -1.6585297, 53.6998826 ], [ -1.6584197, 53.6998842 ], [ -1.6583392, 53.6998922 ], [ -1.6582427, 53.6999319 ], [ -1.6581005, 53.699989 ], [ -1.6580227, 53.7000509 ], [ -1.6581274, 53.7000716 ], [ -1.6582239, 53.7000764 ], [ -1.65835, 53.7000716 ], [ -1.6584197, 53.7000637 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 326150480, "highway": "pedestrian", "name": "Moorside Road", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6584197, 53.7000637 ], [ -1.6585002, 53.7000351 ], [ -1.6586289, 53.69997 ], [ -1.6587006, 53.6999028 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1472985299, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6534628, 53.7129184 ], [ -1.6538274, 53.7136448 ], [ -1.6543907, 53.7148353 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BARNS_178_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 70321613, "highway": "trunk", "name": "Huddersfield Road", "category": "Cycle lane on street", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5349919, 53.5857769 ], [ -1.533779, 53.5850843 ], [ -1.5334527, 53.5849276 ], [ -1.533269, 53.5848572 ], [ -1.5331761, 53.5848229 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1312996801, "highway": "cycleway", "name": "Mill Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5299999, 53.5872335 ], [ -1.5298958, 53.587282 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 71820451, "highway": "cycleway", "name": "Mill Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5298958, 53.587282 ], [ -1.5297391, 53.587355 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1312996802, "highway": "cycleway", "name": "Mill Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5297391, 53.587355 ], [ -1.5296564, 53.5873936 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 309847212, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5297862, 53.5944527 ], [ -1.5297014, 53.5943832 ], [ -1.5296987, 53.5941842 ], [ -1.5293822, 53.5939088 ], [ -1.529283, 53.5938165 ], [ -1.529224, 53.5937003 ], [ -1.529173, 53.5935045 ], [ -1.5291623, 53.5930221 ], [ -1.5291543, 53.5927038 ], [ -1.5291355, 53.5920399 ], [ -1.5291033, 53.5914158 ], [ -1.529106, 53.5912933 ], [ -1.5292104, 53.5911628 ] ] } }
+]
+}

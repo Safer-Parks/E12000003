@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_589_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 975385732, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6721919, 54.1620828 ], [ -0.672201, 54.1621299 ], [ -0.6717716, 54.1623759 ], [ -0.6715166, 54.1625571 ], [ -0.6714124, 54.1626311 ], [ -0.6710689, 54.1628866 ], [ -0.6696098, 54.1637803 ], [ -0.6689941, 54.164194 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 277458040, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6843878, 54.161495 ], [ -0.6843326, 54.1615074 ], [ -0.6824968, 54.1616966 ], [ -0.6811603, 54.161854 ], [ -0.6806636, 54.161897 ], [ -0.6800373, 54.1619513 ], [ -0.6794466, 54.1619773 ], [ -0.6788195, 54.1619698 ], [ -0.6778794, 54.1619367 ], [ -0.6763797, 54.1618838 ], [ -0.6762537, 54.161912 ], [ -0.6760175, 54.1619077 ], [ -0.675898, 54.1618831 ], [ -0.6748407, 54.1618489 ], [ -0.674733, 54.1618063 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 976022391, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6689941, 54.164194 ], [ -0.6688693, 54.1642779 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 976022390, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6688693, 54.1642779 ], [ -0.6685382, 54.1645003 ], [ -0.6675852, 54.1651045 ], [ -0.6673008, 54.1652001 ], [ -0.6666825, 54.1653666 ], [ -0.6660707, 54.1655166 ], [ -0.6660045, 54.1654451 ] ] } }
+]
+}

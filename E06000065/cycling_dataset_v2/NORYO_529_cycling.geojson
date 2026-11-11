@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_529_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1047220902, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5040206, 54.3587637 ], [ -0.50418, 54.359461 ], [ -0.5042154, 54.3596861 ], [ -0.5037325, 54.3603073 ], [ -0.5032951, 54.3605887 ], [ -0.5032405, 54.3607639 ], [ -0.5035776, 54.3609922 ], [ -0.503614, 54.3614859 ], [ -0.503614, 54.3619796 ], [ -0.5035594, 54.3625902 ], [ -0.5033498, 54.3629883 ], [ -0.5033498, 54.3636307 ], [ -0.5036323, 54.3643792 ], [ -0.5035867, 54.364634 ], [ -0.5029671, 54.36534 ], [ -0.5024434, 54.366154 ], [ -0.5016442, 54.3664537 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1047220905, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5016442, 54.3664537 ], [ -0.5013783, 54.3662213 ], [ -0.5010104, 54.3658601 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1047220903, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5010104, 54.3658601 ], [ -0.4999092, 54.366681 ], [ -0.5005252, 54.3669463 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1047220906, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5003055, 54.3670247 ], [ -0.5005252, 54.3669463 ] ] } }
+]
+}

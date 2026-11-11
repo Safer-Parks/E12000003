@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_384_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 61913764, "highway": "trunk", "name": "Linkfoot Lane", "category": "Signed cycle route", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0556066, 54.2474679 ], [ -1.054735, 54.2474001 ], [ -1.053291, 54.247306 ], [ -1.0514116, 54.2471889 ], [ -1.0509909, 54.2471587 ], [ -1.0504157, 54.2471253 ], [ -1.0500657, 54.2471081 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 135263491, "highway": "trunk", "name": "Linkfoot Lane", "category": "Signed cycle route", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0559666, 54.2474806 ], [ -1.0557797, 54.247474 ], [ -1.0556066, 54.2474679 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 286960475, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0559896, 54.2481908 ], [ -1.0548041, 54.2482378 ], [ -1.0533631, 54.2481827 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 61913770, "highway": "tertiary", "name": "Carlton Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0563576, 54.2521816 ], [ -1.0561646, 54.2503387 ], [ -1.0561009, 54.2498452 ], [ -1.0560404, 54.2492234 ], [ -1.0560272, 54.2489253 ], [ -1.056011, 54.248721 ], [ -1.0559975, 54.2485514 ], [ -1.0559896, 54.2481908 ], [ -1.0559696, 54.2475705 ], [ -1.0559666, 54.2474806 ] ] } }
+]
+}

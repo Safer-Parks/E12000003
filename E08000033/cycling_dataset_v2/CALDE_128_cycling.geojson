@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CALDE_128_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 816306339, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1265808, 53.7153248 ], [ -2.1254545, 53.7150177 ], [ -2.1229684, 53.7143315 ], [ -2.1203679, 53.7133942 ], [ -2.1203343, 53.7133821 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1558967589, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1286945, 53.7159003 ], [ -2.1283391, 53.7158051 ], [ -2.1280333, 53.7157209 ], [ -2.1279686, 53.7157031 ], [ -2.1278869, 53.715681 ], [ -2.1265808, 53.7153248 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 164971718, "highway": "track", "name": "Flower Scar Road", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1406693, 53.7214273 ], [ -2.1403308, 53.721575 ], [ -2.1401873, 53.7216219 ], [ -2.1398242, 53.7217654 ], [ -2.139683, 53.7217933 ], [ -2.1394761, 53.7218378 ], [ -2.1391136, 53.7218733 ], [ -2.1385687, 53.7219074 ], [ -2.1381462, 53.7219699 ], [ -2.1376788, 53.7220167 ], [ -2.1370683, 53.7219983 ], [ -2.1364561, 53.7219444 ], [ -2.1362185, 53.7219153 ], [ -2.1356067, 53.7217779 ], [ -2.1353435, 53.7217609 ], [ -2.1350568, 53.7217481 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 229936670, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1350568, 53.7217481 ], [ -2.1348121, 53.721806 ] ] } }
+]
+}

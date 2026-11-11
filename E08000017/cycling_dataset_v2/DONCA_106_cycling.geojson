@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_106_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1550211513, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.23608, 53.5188651 ], [ -1.2360451, 53.5188027 ], [ -1.236663, 53.5163625 ], [ -1.2366513, 53.5160852 ], [ -1.2364531, 53.5158079 ], [ -1.2358702, 53.5151492 ], [ -1.2357769, 53.5148789 ], [ -1.2358531, 53.5144289 ], [ -1.23589, 53.5142486 ], [ -1.2359006, 53.514119 ], [ -1.2359002, 53.5140163 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 431038517, "highway": "track", "name": "Grange Lane", "category": "Track", "bicycle": "permissive", "access": null, "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2638244, 53.5180861 ], [ -1.2639325, 53.51779 ], [ -1.263884, 53.5174289 ], [ -1.2637139, 53.5163841 ], [ -1.263551, 53.5155353 ], [ -1.2633566, 53.514322 ], [ -1.2631785, 53.5136142 ], [ -1.2631374, 53.5128274 ], [ -1.2630071, 53.5126643 ], [ -1.2623009, 53.5123095 ], [ -1.2619375, 53.5122035 ], [ -1.2612176, 53.5120731 ], [ -1.2594144, 53.511649 ], [ -1.2581324, 53.5113596 ], [ -1.2579213, 53.5113086 ], [ -1.2578543, 53.5112495 ], [ -1.2577758, 53.511066 ], [ -1.2576435, 53.510906 ], [ -1.2575085, 53.5108377 ], [ -1.2573361, 53.5108412 ], [ -1.2567885, 53.5109315 ], [ -1.2566038, 53.5109434 ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_141_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1305566360, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1604373, 53.4506708 ], [ -1.1604811, 53.4508309 ], [ -1.1604664, 53.4510253 ], [ -1.1596329, 53.4542862 ], [ -1.159252, 53.4557044 ], [ -1.1591504, 53.4559296 ], [ -1.1591064, 53.4560407 ], [ -1.1590856, 53.4562357 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1305566357, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1593786, 53.4601884 ], [ -1.159319, 53.4600807 ], [ -1.1592422, 53.4599948 ], [ -1.1591547, 53.4564001 ], [ -1.1590856, 53.4562357 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1305566362, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1543251, 53.4513642 ], [ -1.1543869, 53.4514682 ], [ -1.1543556, 53.451645 ], [ -1.1536776, 53.4550961 ], [ -1.1531463, 53.4576009 ], [ -1.1530203, 53.4576767 ], [ -1.1529009, 53.4576884 ], [ -1.1527264, 53.4577095 ], [ -1.1526594, 53.4577712 ], [ -1.1528131, 53.4592356 ], [ -1.1527131, 53.459306 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1305566359, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1527131, 53.459306 ], [ -1.152171, 53.4593564 ], [ -1.151455, 53.459419 ] ] } }
+]
+}

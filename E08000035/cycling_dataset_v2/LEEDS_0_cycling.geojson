@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LEEDS_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 53806327, "highway": "cycleway", "name": "Kent Road", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.652394, 53.7900208 ], [ -1.6523984, 53.7899639 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1015401236, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6577687, 53.7972092 ], [ -1.657795, 53.7971231 ], [ -1.6578949, 53.7971055 ] ] } }
+]
+}

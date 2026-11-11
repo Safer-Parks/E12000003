@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRADF_32_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 154932003, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8103721, 53.8195969 ], [ -1.8101424, 53.8192636 ], [ -1.8099616, 53.8187719 ], [ -1.8098949, 53.8183168 ], [ -1.8098861, 53.8182725 ], [ -1.8098767, 53.8182181 ], [ -1.8098699, 53.8181784 ], [ -1.8098514, 53.8180712 ], [ -1.8098171, 53.8179748 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 454573063, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8232423, 53.8262214 ], [ -1.8223949, 53.8255657 ], [ -1.8241181, 53.824328 ], [ -1.8246878, 53.8240799 ], [ -1.8255751, 53.8234321 ], [ -1.8256685, 53.8233467 ], [ -1.825818, 53.823297 ], [ -1.8276972, 53.8217914 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1268212853, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8310158, 53.818734 ], [ -1.8308874, 53.8186921 ], [ -1.8305196, 53.8186719 ], [ -1.8299088, 53.8187502 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 243662840, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8299088, 53.8187502 ], [ -1.8298661, 53.8187897 ], [ -1.8297266, 53.8189733 ], [ -1.8293511, 53.8194293 ], [ -1.828988, 53.8198141 ], [ -1.8285374, 53.8207638 ], [ -1.8281029, 53.821947 ] ] } }
+]
+}

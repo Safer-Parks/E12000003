@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_82_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 290244852, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6831442, 53.7191809 ], [ -1.6835936, 53.7191735 ], [ -1.6836714, 53.7192049 ], [ -1.6841935, 53.7192874 ], [ -1.6850376, 53.7192986 ], [ -1.6856301, 53.719358 ] ] } }
+]
+}

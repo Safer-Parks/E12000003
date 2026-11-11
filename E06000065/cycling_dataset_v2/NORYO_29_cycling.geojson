@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 232049032, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4145973, 54.3553464 ], [ -1.4147796, 54.3554623 ], [ -1.4150371, 54.3557374 ], [ -1.4159705, 54.3561094 ], [ -1.4179207, 54.3568445 ], [ -1.4190258, 54.357254 ], [ -1.4195676, 54.3574697 ], [ -1.4199992, 54.3576067 ], [ -1.4201914, 54.3576573 ], [ -1.4202747, 54.357674 ], [ -1.4204601, 54.3577141 ] ] } }
+]
+}

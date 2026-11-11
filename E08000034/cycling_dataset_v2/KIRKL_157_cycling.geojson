@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_157_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1019037109, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7551521, 53.6380952 ], [ -1.7550966, 53.6378678 ], [ -1.7551503, 53.6377629 ], [ -1.7551503, 53.6377024 ], [ -1.7551073, 53.6376386 ], [ -1.7550108, 53.6375402 ], [ -1.7548713, 53.6374575 ], [ -1.7545474, 53.6371992 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 530902101, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "concrete" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7657448, 53.6420807 ], [ -1.7656604, 53.6419668 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1529428245, "highway": "trunk", "name": "Wakefield Road", "category": "Cycle lane on street", "bicycle": "yes", "access": null, "foot": "no", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7687573, 53.6428705 ], [ -1.7693197, 53.6429508 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1550861011, "highway": "trunk", "name": "Wakefield Road", "category": "Cycle lane on street", "bicycle": "yes", "access": null, "foot": "no", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7693197, 53.6429508 ], [ -1.7699795, 53.6430454 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NORLI_6284_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 281628659, "highway": "bridleway", "name": "Cornley Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8749766, 53.4667644 ], [ -0.8750226, 53.4666616 ], [ -0.8766533, 53.4620565 ], [ -0.8766963, 53.4619559 ], [ -0.8767659, 53.461809 ], [ -0.8768218, 53.4617126 ] ] } }
+]
+}

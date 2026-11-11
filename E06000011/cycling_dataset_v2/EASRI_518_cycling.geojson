@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASRI_518_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 483071006, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4912412, 53.9217028 ], [ -0.4905385, 53.9261106 ], [ -0.4904312, 53.9262551 ], [ -0.4902407, 53.9262946 ], [ -0.4901335, 53.9263751 ], [ -0.4900342, 53.9265536 ], [ -0.489935, 53.926969 ], [ -0.4899457, 53.9271853 ], [ -0.4899698, 53.9273496 ], [ -0.4899377, 53.9274443 ], [ -0.489817, 53.9275375 ], [ -0.4842651, 53.9311097 ] ] } }
+]
+}

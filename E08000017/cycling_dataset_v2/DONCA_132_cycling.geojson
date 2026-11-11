@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_132_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 61510886, "highway": "unclassified", "name": null, "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.058566, 53.6487222 ], [ -1.0581305, 53.6476225 ], [ -1.0579634, 53.6467399 ], [ -1.0573429, 53.645606 ], [ -1.0573141, 53.644755 ], [ -1.0570335, 53.6440183 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 44700869, "highway": "unclassified", "name": "Starkbridge Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0570335, 53.6440183 ], [ -1.056854, 53.6440265 ], [ -1.0556906, 53.6438253 ], [ -1.0519794, 53.6434636 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 44700665, "highway": "tertiary", "name": "Broad Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0519794, 53.6434636 ], [ -1.0492962, 53.6448556 ], [ -1.0485452, 53.6453771 ], [ -1.0478719, 53.6456397 ], [ -1.0456216, 53.6465173 ], [ -1.0451839, 53.646688 ], [ -1.0444683, 53.646967 ], [ -1.0430391, 53.6473683 ], [ -1.0428619, 53.6474121 ], [ -1.0428087, 53.6474253 ], [ -1.0423123, 53.6475395 ], [ -1.0417431, 53.647652 ], [ -1.0410589, 53.6477059 ], [ -1.0404569, 53.6477445 ], [ -1.038503, 53.6479209 ], [ -1.0364141, 53.6479702 ], [ -1.0362521, 53.6479762 ] ] } }
+]
+}

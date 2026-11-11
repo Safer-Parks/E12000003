@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_223_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1102860846, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6452505, 53.5841124 ], [ -1.6451554, 53.5841048 ], [ -1.6441375, 53.5841798 ], [ -1.6438278, 53.5840803 ], [ -1.6404327, 53.5824177 ], [ -1.6401408, 53.5823227 ], [ -1.6398989, 53.58214 ], [ -1.6397627, 53.581874 ], [ -1.6396352, 53.5816131 ], [ -1.6397607, 53.5815382 ], [ -1.6397527, 53.5814642 ], [ -1.6399888, 53.5812643 ], [ -1.640721, 53.5807851 ], [ -1.6408944, 53.5806548 ], [ -1.6410041, 53.5804405 ], [ -1.6410671, 53.5801348 ], [ -1.6409947, 53.5799061 ], [ -1.6409056, 53.5798336 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1102860848, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "paving_stones" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6472164, 53.5850794 ], [ -1.646242, 53.5849181 ], [ -1.6458062, 53.5847169 ], [ -1.6452505, 53.5841124 ] ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "YORK__112_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 416531263, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0352546, 54.0406189 ], [ -1.0353106, 54.0406153 ], [ -1.0353442, 54.0406213 ], [ -1.0353742, 54.0406374 ], [ -1.0353839, 54.0406571 ], [ -1.0353954, 54.0407016 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 264994804, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0246468, 54.043185 ], [ -1.0245336, 54.0430944 ], [ -1.0243968, 54.0429385 ], [ -1.0243196, 54.04287 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 264994794, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0249258, 54.0437551 ], [ -1.0247777, 54.0437779 ], [ -1.0245395, 54.0437614 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 416531269, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "wood" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0353954, 54.0407016 ], [ -1.0354538, 54.0409603 ], [ -1.0354828, 54.0410885 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 601816247, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0359418, 54.0412851 ], [ -1.0359043, 54.041252 ], [ -1.0358312, 54.0411275 ], [ -1.0358099, 54.0411189 ], [ -1.0357671, 54.041108 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 416531264, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0354828, 54.0410885 ], [ -1.0354821, 54.041135 ], [ -1.0354397, 54.0413111 ], [ -1.0353415, 54.0416438 ] ] } }
+]
+}

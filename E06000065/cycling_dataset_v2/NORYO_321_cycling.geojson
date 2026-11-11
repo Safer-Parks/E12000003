@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_321_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 542780878, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2421101, 53.7974379 ], [ -1.2418689, 53.7974459 ], [ -1.2417804, 53.7974443 ], [ -1.2415068, 53.7973904 ], [ -1.2414183, 53.7973777 ], [ -1.2413915, 53.7973857 ], [ -1.2413754, 53.79743 ], [ -1.2413405, 53.7974696 ], [ -1.2412681, 53.7974744 ], [ -1.2411957, 53.7974569 ], [ -1.2411018, 53.7974554 ], [ -1.2409679, 53.7974558 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 144335836, "highway": "cycleway", "name": "Hodgson's Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2399855, 53.7992588 ], [ -1.2399729, 53.7990515 ], [ -1.2399528, 53.7987587 ], [ -1.2399203, 53.7982854 ], [ -1.2398997, 53.797985 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1174716148, "highway": "cycleway", "name": "Hodgson's Lane", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2402557, 53.8021847 ], [ -1.2402167, 53.8018799 ], [ -1.2401634, 53.8014641 ], [ -1.2401438, 53.801311 ], [ -1.240114, 53.8010785 ], [ -1.2401016, 53.8008972 ], [ -1.2400282, 53.7998271 ], [ -1.2400121, 53.799467 ] ] } }
+]
+}

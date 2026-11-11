@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LEEDS_603_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 39450137, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3064511, 53.7759174 ], [ -1.3089916, 53.7772834 ], [ -1.310375, 53.7779377 ], [ -1.3119968, 53.7787301 ], [ -1.3122052, 53.778826 ], [ -1.3124135, 53.7788496 ], [ -1.3126342, 53.7788437 ], [ -1.3128482, 53.7788079 ], [ -1.3130784, 53.7787094 ], [ -1.3134676, 53.7785915 ], [ -1.3137359, 53.7785188 ], [ -1.3141673, 53.7784249 ], [ -1.3145649, 53.7783743 ], [ -1.3150314, 53.7783373 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 39428235, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3150872, 53.7785811 ], [ -1.3151277, 53.7787645 ], [ -1.3151388, 53.7789718 ], [ -1.3151525, 53.7791157 ], [ -1.3152002, 53.7793134 ], [ -1.3152642, 53.7795551 ], [ -1.3153904, 53.7797291 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 39505969, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3153904, 53.7797291 ], [ -1.3153344, 53.779904 ], [ -1.3155216, 53.7801088 ], [ -1.3157528, 53.7802302 ], [ -1.3159899, 53.7803852 ], [ -1.3162141, 53.7805186 ], [ -1.3167313, 53.780737 ], [ -1.3172436, 53.7809589 ], [ -1.3176358, 53.78112 ], [ -1.317826, 53.7812249 ], [ -1.3182186, 53.7814064 ], [ -1.3186453, 53.7816261 ], [ -1.3190644, 53.7818457 ], [ -1.31955, 53.7821662 ], [ -1.320026, 53.7825136 ], [ -1.3206557, 53.7829697 ], [ -1.3220997, 53.7840863 ], [ -1.3221311, 53.7841848 ] ] } }
+]
+}

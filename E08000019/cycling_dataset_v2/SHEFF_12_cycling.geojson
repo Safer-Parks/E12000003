@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SHEFF_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 417969589, "highway": "bridleway", "name": "Totley Lane", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5256049, 53.3144237 ], [ -1.5252824, 53.3143998 ], [ -1.5249599, 53.3143374 ], [ -1.5246487, 53.3142733 ], [ -1.524402, 53.3142028 ], [ -1.5241659, 53.3141387 ], [ -1.5239192, 53.3140618 ], [ -1.5236831, 53.3140297 ], [ -1.5234364, 53.314049 ], [ -1.5232003, 53.3141002 ], [ -1.5230394, 53.3142028 ], [ -1.5229765, 53.3142568 ], [ -1.5229243, 53.3143237 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 808065720, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5285251, 53.3105707 ], [ -1.5284065, 53.3107138 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 808065719, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5284065, 53.3107138 ], [ -1.5281991, 53.3109641 ], [ -1.5278283, 53.3114117 ], [ -1.5273259, 53.3119207 ], [ -1.5267853, 53.3125352 ], [ -1.5265364, 53.3128181 ], [ -1.5264651, 53.3129169 ], [ -1.526431, 53.3129642 ], [ -1.5262953, 53.3131522 ], [ -1.5261253, 53.313425 ], [ -1.5260168, 53.3136487 ], [ -1.5259775, 53.3137673 ], [ -1.5259631, 53.3138834 ], [ -1.525996, 53.3142416 ], [ -1.5259612, 53.3143666 ], [ -1.5258852, 53.3145447 ] ] } }
+]
+}

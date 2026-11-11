@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRADF_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 104347659, "highway": "bridleway", "name": "Clock Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8994611, 53.8002383 ], [ -1.8996128, 53.800426 ], [ -1.8997512, 53.8006183 ], [ -1.9000939, 53.8011586 ], [ -1.900157, 53.8012576 ], [ -1.9005391, 53.8018617 ], [ -1.9005618, 53.8018964 ], [ -1.9007427, 53.8021867 ], [ -1.9007577, 53.8022089 ], [ -1.9015774, 53.8034785 ], [ -1.9018036, 53.8038274 ] ] } }
+]
+}

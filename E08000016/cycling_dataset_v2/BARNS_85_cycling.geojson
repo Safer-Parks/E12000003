@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BARNS_85_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1205634339, "highway": "residential", "name": "Walkers Terrace", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4544183, 53.5681697 ], [ -1.4542613, 53.568107 ], [ -1.454201, 53.5680664 ], [ -1.4541651, 53.5680138 ], [ -1.454094, 53.5676348 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 762533702, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_footpath", "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4758891, 53.5678697 ], [ -1.4756857, 53.5678842 ], [ -1.4755601, 53.567903 ], [ -1.4750701, 53.567986 ], [ -1.4749163, 53.568053 ], [ -1.4747914, 53.5681075 ], [ -1.4743912, 53.5682374 ], [ -1.474149, 53.5685206 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 762533699, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4744524, 53.5691418 ], [ -1.4744652, 53.5691774 ], [ -1.4745554, 53.5694288 ], [ -1.4746528, 53.5695941 ], [ -1.4748666, 53.5698317 ], [ -1.4752611, 53.570207 ], [ -1.4756032, 53.5706708 ], [ -1.4759207, 53.5709095 ], [ -1.4762137, 53.5712069 ], [ -1.4765629, 53.5715786 ], [ -1.4776863, 53.5723792 ], [ -1.4786047, 53.5728345 ], [ -1.4789687, 53.573015 ] ] } }
+]
+}

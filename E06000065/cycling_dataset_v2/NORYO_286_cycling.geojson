@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_286_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 201511612, "highway": "cycleway", "name": "Templar Close", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1582064, 53.6986062 ], [ -1.1581738, 53.6987813 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 931776356, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1563573, 53.7004657 ], [ -1.1563462, 53.7004308 ], [ -1.1564699, 53.7003578 ], [ -1.156722, 53.7002091 ], [ -1.1567887, 53.7002132 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 931776355, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1567887, 53.7002132 ], [ -1.1567689, 53.700249 ], [ -1.1564165, 53.7004609 ], [ -1.1563573, 53.7004657 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1448365265, "highway": "tertiary", "name": "Selby Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.149702, 53.7042821 ], [ -1.1498526, 53.704188 ], [ -1.1500174, 53.7040932 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1448365266, "highway": "tertiary", "name": "Selby Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1493862, 53.7044977 ], [ -1.1494644, 53.7044428 ], [ -1.149702, 53.7042821 ] ] } }
+]
+}

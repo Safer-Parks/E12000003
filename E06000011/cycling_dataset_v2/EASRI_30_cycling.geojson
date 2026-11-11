@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASRI_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 380445266, "highway": "path", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2296372, 53.8064763 ], [ -0.2298303, 53.8066727 ], [ -0.2302487, 53.8069705 ], [ -0.2306242, 53.8072493 ], [ -0.2307744, 53.807604 ], [ -0.2309139, 53.8083073 ], [ -0.2310105, 53.8092829 ], [ -0.2312143, 53.8108666 ], [ -0.2314933, 53.8131535 ], [ -0.2315642, 53.8137214 ], [ -0.2316649, 53.814528 ], [ -0.2317999, 53.8157338 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 380444740, "highway": "path", "name": null, "category": "Shared path", "bicycle": "permissive", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2201283, 53.8131347 ], [ -0.2200116, 53.8131582 ], [ -0.2184255, 53.8134876 ], [ -0.2171595, 53.81376 ], [ -0.2164514, 53.8139342 ], [ -0.215974, 53.814026 ], [ -0.2154912, 53.8140735 ], [ -0.2145969, 53.8140533 ], [ -0.2128787, 53.813969 ], [ -0.2117093, 53.813931 ], [ -0.2111997, 53.8139849 ], [ -0.2107741, 53.8140634 ], [ -0.2106829, 53.8141264 ] ] } }
+]
+}

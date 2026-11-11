@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BARNS_222_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 92353297, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4214373, 53.5017483 ], [ -1.4215937, 53.501964 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 91922761, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4318597, 53.5100016 ], [ -1.4316561, 53.509993 ], [ -1.4315917, 53.5102258 ], [ -1.431522, 53.5103566 ], [ -1.4313557, 53.5104428 ], [ -1.4311572, 53.5104747 ], [ -1.4309855, 53.5104396 ], [ -1.4304867, 53.5103566 ], [ -1.4295908, 53.5102035 ], [ -1.4292582, 53.5101269 ], [ -1.4288451, 53.5100344 ], [ -1.4284482, 53.5099802 ], [ -1.4278581, 53.5099323 ], [ -1.4270481, 53.5099164 ], [ -1.4261254, 53.5099132 ], [ -1.4256372, 53.5098909 ], [ -1.4253392, 53.5098524 ] ] } }
+]
+}

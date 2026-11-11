@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_745_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 132328654, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8909654, 53.9717462 ], [ -1.890987, 53.9717169 ], [ -1.8910273, 53.9716807 ], [ -1.8910513, 53.9716313 ], [ -1.891113, 53.9716123 ], [ -1.8912176, 53.9716139 ], [ -1.8913088, 53.9716218 ], [ -1.8914107, 53.9716092 ], [ -1.8916629, 53.9715303 ], [ -1.8916925, 53.9715103 ], [ -1.8917031, 53.9714877 ], [ -1.8917943, 53.9713552 ], [ -1.8917862, 53.9713126 ], [ -1.8917488, 53.9712974 ], [ -1.8916253, 53.9712873 ], [ -1.8893056, 53.9714492 ], [ -1.887492, 53.9715256 ], [ -1.886548, 53.9715687 ], [ -1.8862503, 53.9716003 ], [ -1.8860461, 53.9716319 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 262256088, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8860461, 53.9716319 ], [ -1.8857391, 53.9716414 ], [ -1.8848848, 53.9716257 ], [ -1.8847682, 53.9715935 ], [ -1.8846355, 53.97158 ] ] } }
+]
+}

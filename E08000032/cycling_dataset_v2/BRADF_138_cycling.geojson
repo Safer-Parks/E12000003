@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRADF_138_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 154932003, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8103721, 53.8195969 ], [ -1.8101424, 53.8192636 ], [ -1.8099616, 53.8187719 ], [ -1.8098949, 53.8183168 ], [ -1.8098861, 53.8182725 ], [ -1.8098767, 53.8182181 ], [ -1.8098699, 53.8181784 ], [ -1.8098514, 53.8180712 ], [ -1.8098171, 53.8179748 ] ] } }
+]
+}

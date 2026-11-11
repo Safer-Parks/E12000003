@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BARNS_14_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 805516569, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.454018, 53.602393 ], [ -1.4536696, 53.6021184 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 49706619, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4796728, 53.5954009 ], [ -1.4794554, 53.5962161 ], [ -1.4791228, 53.5969547 ], [ -1.4787258, 53.5976551 ], [ -1.478243, 53.5981581 ], [ -1.4771487, 53.5990176 ], [ -1.4759149, 53.5996097 ], [ -1.4748983, 53.600043 ], [ -1.4747347, 53.6001127 ], [ -1.4734687, 53.6005711 ], [ -1.4728152, 53.6008263 ], [ -1.4705504, 53.6017107 ], [ -1.4691771, 53.6022455 ], [ -1.4675678, 53.6028949 ], [ -1.4668895, 53.603158 ], [ -1.4667117, 53.6032269 ], [ -1.4662053, 53.6034233 ], [ -1.4644994, 53.6041108 ], [ -1.4629008, 53.6047028 ], [ -1.4607765, 53.6055941 ], [ -1.4600791, 53.6058487 ], [ -1.4597894, 53.605836 ], [ -1.4596354, 53.6056999 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRADF_155_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1268212853, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8310158, 53.818734 ], [ -1.8308874, 53.8186921 ], [ -1.8305196, 53.8186719 ], [ -1.8299088, 53.8187502 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 243662840, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8299088, 53.8187502 ], [ -1.8298661, 53.8187897 ], [ -1.8297266, 53.8189733 ], [ -1.8293511, 53.8194293 ], [ -1.828988, 53.8198141 ], [ -1.8285374, 53.8207638 ], [ -1.8281029, 53.821947 ] ] } }
+]
+}

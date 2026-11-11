@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KIRKL_70_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 26623141, "highway": "bridleway", "name": "Quaker Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "mud" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7134671, 53.716116 ], [ -1.7134569, 53.7158797 ], [ -1.7133592, 53.7156742 ], [ -1.7131855, 53.7153805 ], [ -1.7130955, 53.7147202 ], [ -1.7131839, 53.7143972 ], [ -1.7135975, 53.7135196 ], [ -1.7136768, 53.7133512 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 71122923, "highway": "path", "name": "Buttershaw Lane", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7332189, 53.7162877 ], [ -1.7332872, 53.7163062 ], [ -1.7333254, 53.7164265 ], [ -1.7333361, 53.7164685 ] ] } }
+]
+}

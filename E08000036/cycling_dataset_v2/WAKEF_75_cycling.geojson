@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAKEF_75_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 926498205, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3618289, 53.674956 ], [ -1.3618866, 53.6750067 ], [ -1.3619753, 53.6750175 ], [ -1.3621836, 53.6750434 ], [ -1.362826, 53.6750907 ], [ -1.363359, 53.675122 ], [ -1.3635129, 53.6751325 ], [ -1.3640695, 53.6751705 ], [ -1.3644509, 53.6752074 ], [ -1.3645957, 53.6752215 ], [ -1.3646833, 53.6752301 ], [ -1.3650877, 53.6752347 ], [ -1.3661533, 53.6753017 ], [ -1.3673877, 53.6753828 ], [ -1.3679449, 53.6754187 ], [ -1.3687539, 53.6754708 ], [ -1.3689043, 53.6754804 ], [ -1.3689448, 53.6754713 ], [ -1.3690044, 53.6754459 ] ] } }
+]
+}

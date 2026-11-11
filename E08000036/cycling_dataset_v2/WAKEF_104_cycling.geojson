@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAKEF_104_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 185672012, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2885441, 53.5990028 ], [ -1.2890323, 53.5988341 ], [ -1.2890645, 53.5987736 ], [ -1.2888392, 53.5986239 ], [ -1.288321, 53.5981055 ], [ -1.2883778, 53.5979809 ], [ -1.2899228, 53.5973314 ], [ -1.2899042, 53.5972751 ], [ -1.2898627, 53.5971494 ], [ -1.2898066, 53.5970463 ] ] } }
+]
+}

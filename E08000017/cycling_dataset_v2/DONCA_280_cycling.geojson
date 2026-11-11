@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_280_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 768804186, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9161603, 53.6013456 ], [ -0.9150841, 53.6015017 ], [ -0.914258, 53.6014858 ], [ -0.9096982, 53.6013107 ], [ -0.9009864, 53.6010179 ], [ -0.8952623, 53.6008022 ], [ -0.8868511, 53.6005117 ], [ -0.8839326, 53.6004011 ], [ -0.8834795, 53.600409 ], [ -0.8827205, 53.600464 ], [ -0.8787026, 53.6007696 ], [ -0.8723395, 53.6012256 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 37520259, "highway": "unclassified", "name": "Clay Bank Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9439957, 53.5995534 ], [ -0.9439333, 53.5995309 ], [ -0.9434406, 53.5994158 ], [ -0.9363221, 53.5978659 ], [ -0.9312103, 53.5967853 ], [ -0.9307037, 53.5966782 ], [ -0.918006, 53.5939939 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 250941180, "highway": "unclassified", "name": "Green Bank", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9160337, 53.60111 ], [ -0.9156284, 53.6008184 ], [ -0.9154813, 53.6005973 ], [ -0.918006, 53.5939939 ] ] } }
+]
+}

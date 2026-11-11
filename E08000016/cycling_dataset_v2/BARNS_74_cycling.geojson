@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BARNS_74_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 249391178, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4924392, 53.5587471 ], [ -1.4925346, 53.5588573 ], [ -1.4930492, 53.5594192 ], [ -1.4930559, 53.5594596 ], [ -1.4930519, 53.5596374 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 731211669, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4973556, 53.5604709 ], [ -1.4972765, 53.5604766 ], [ -1.4968012, 53.5605111 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 738127063, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4985373, 53.5613317 ], [ -1.497942, 53.5614535 ], [ -1.4976335, 53.5614676 ], [ -1.4974294, 53.5614669 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 731791611, "highway": "footway", "name": "Salisbury Street", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.490671, 53.5624647 ], [ -1.4902747, 53.562455 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 731791610, "highway": "footway", "name": "Salisbury Street", "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.490671, 53.5624647 ], [ -1.4906845, 53.5625073 ], [ -1.4907197, 53.5626865 ] ] } }
+]
+}

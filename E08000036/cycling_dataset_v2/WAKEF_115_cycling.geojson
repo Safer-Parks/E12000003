@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WAKEF_115_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 24513179, "highway": "tertiary", "name": "Wood Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5135386, 53.6355435 ], [ -1.512984, 53.6349686 ], [ -1.5125442, 53.6344671 ], [ -1.5123048, 53.6342957 ], [ -1.5118627, 53.6339304 ], [ -1.511316, 53.6335806 ], [ -1.5110659, 53.6334331 ], [ -1.510199, 53.6329446 ], [ -1.5084698, 53.6319158 ], [ -1.5082884, 53.6318445 ], [ -1.5081436, 53.6318156 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24513187, "highway": "tertiary", "name": "Boyne Hill", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5067834, 53.6382988 ], [ -1.5070302, 53.6382442 ], [ -1.5072407, 53.6381734 ], [ -1.5077732, 53.637954 ], [ -1.508324, 53.6376803 ], [ -1.5085107, 53.6375119 ], [ -1.5087838, 53.6371927 ], [ -1.5089086, 53.6371326 ], [ -1.5098634, 53.6367998 ], [ -1.5118058, 53.6361242 ], [ -1.5135386, 53.6355435 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24513193, "highway": "unclassified", "name": "Slack Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5067834, 53.6382988 ], [ -1.5064349, 53.6384917 ], [ -1.5062402, 53.6385741 ], [ -1.505978, 53.638704 ], [ -1.5056878, 53.6388268 ], [ -1.504282, 53.6392161 ], [ -1.5032204, 53.639454 ], [ -1.5031807, 53.6394617 ], [ -1.5029341, 53.6395098 ], [ -1.502903, 53.6395159 ], [ -1.5020956, 53.639663 ], [ -1.5012028, 53.6398394 ], [ -1.5009432, 53.6398934 ], [ -1.5002015, 53.6400407 ] ] } }
+]
+}

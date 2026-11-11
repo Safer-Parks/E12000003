@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EASRI_441_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 154140037, "highway": "primary", "name": "Swinefleet Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8657388, 53.6923928 ], [ -0.8660247, 53.6925891 ], [ -0.8667016, 53.6930506 ], [ -0.8669284, 53.693217 ], [ -0.8672043, 53.6934078 ], [ -0.8672274, 53.6934236 ], [ -0.8673895, 53.6935268 ], [ -0.8677492, 53.6937806 ], [ -0.8678498, 53.6938579 ], [ -0.8683809, 53.6942272 ], [ -0.8686763, 53.6944587 ], [ -0.8688449, 53.6946287 ], [ -0.8688898, 53.6946706 ], [ -0.8690504, 53.6948205 ], [ -0.8693262, 53.6952005 ], [ -0.8694294, 53.6953468 ], [ -0.8695376, 53.6954973 ], [ -0.8696847, 53.6957087 ], [ -0.8698062, 53.6958119 ], [ -0.8699483, 53.695909 ], [ -0.8702514, 53.6960571 ], [ -0.8704478, 53.6961143 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 548761755, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8732832, 53.6960705 ], [ -0.873246, 53.6960371 ], [ -0.8731648, 53.6960086 ], [ -0.8730362, 53.6959797 ], [ -0.8728326, 53.6959816 ], [ -0.8726081, 53.6960057 ], [ -0.8710254, 53.6962249 ], [ -0.8707928, 53.6962404 ], [ -0.870615, 53.6962163 ], [ -0.8704042, 53.696165 ] ] } }
+]
+}

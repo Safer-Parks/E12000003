@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "NORYO_494_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 39482480, "highway": "residential", "name": "Goslipgate", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7836646, 54.2415868 ], [ -0.7836367, 54.2417691 ], [ -0.7836252, 54.2418139 ], [ -0.783537, 54.2424555 ], [ -0.7834978, 54.242763 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 227750926, "highway": "residential", "name": "Goslipgate", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7834978, 54.242763 ], [ -0.7834897, 54.2427978 ], [ -0.7833385, 54.2436341 ], [ -0.7832765, 54.2439965 ], [ -0.7832443, 54.2442138 ], [ -0.7832224, 54.2444159 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 25179257, "highway": "residential", "name": "Vivis Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7801859, 54.2450216 ], [ -0.7800981, 54.2447918 ], [ -0.7800967, 54.2446855 ], [ -0.7801213, 54.2445069 ], [ -0.7801646, 54.2443483 ], [ -0.7801867, 54.244272 ], [ -0.7802374, 54.2441382 ], [ -0.7802619, 54.2440726 ], [ -0.7803936, 54.2436994 ], [ -0.7805323, 54.2433065 ], [ -0.7806198, 54.2431839 ], [ -0.7808336, 54.2430948 ], [ -0.7810531, 54.2431223 ], [ -0.7813454, 54.243302 ], [ -0.7815048, 54.243404 ], [ -0.7816163, 54.2434837 ], [ -0.7821148, 54.2438677 ], [ -0.7826237, 54.2442873 ], [ -0.7827057, 54.2443447 ], [ -0.7828445, 54.2443863 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 81293012, "highway": "residential", "name": "Vivis Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7828445, 54.2443863 ], [ -0.7830293, 54.2444067 ], [ -0.7832224, 54.2444159 ] ] } }
+]
+}

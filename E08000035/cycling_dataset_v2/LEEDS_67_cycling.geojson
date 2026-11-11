@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LEEDS_67_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 27046242, "highway": "track", "name": "New Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5440243, 53.7269019 ], [ -1.5444003, 53.7268352 ], [ -1.5452157, 53.7267844 ], [ -1.5459822, 53.7267605 ], [ -1.5460311, 53.726759 ], [ -1.54734, 53.7265432 ], [ -1.5485418, 53.7263627 ], [ -1.5486258, 53.7263706 ], [ -1.5487376, 53.7264946 ], [ -1.5488505, 53.7266045 ], [ -1.5491377, 53.7266672 ], [ -1.5497314, 53.7265876 ], [ -1.5502734, 53.7264719 ], [ -1.5505417, 53.7264146 ], [ -1.5505714, 53.7264083 ], [ -1.5508202, 53.7263393 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1056310614, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.545043, 53.7239906 ], [ -1.548713, 53.7235472 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 608123281, "highway": "primary", "name": "Thorpe Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5628704, 53.7296728 ], [ -1.5628776, 53.729615 ], [ -1.5628852, 53.7295326 ], [ -1.5628936, 53.7294413 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1550394936, "highway": "primary", "name": "Thorpe Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5628427, 53.7298395 ], [ -1.5628704, 53.7296728 ] ] } }
+]
+}
