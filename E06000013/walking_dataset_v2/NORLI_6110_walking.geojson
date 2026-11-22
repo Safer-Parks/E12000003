@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NORLI_6110_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 553751622, "highway": "bridleway", "name": null, "category": "Bridleway", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4287399, 53.6558439 ], [ -0.4289655, 53.6558498 ], [ -0.4320504, 53.6558141 ], [ -0.4320753, 53.6564179 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 266284756, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4320753, 53.6564179 ], [ -0.4322413, 53.6620287 ], [ -0.4323024, 53.6640939 ], [ -0.4322621, 53.6644381 ], [ -0.4320324, 53.6663228 ], [ -0.431732, 53.6684205 ], [ -0.4317008, 53.6685358 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 217185833, "highway": "bridleway", "name": null, "category": "Bridleway", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4483397, 53.663562 ], [ -0.4480184, 53.6632842 ], [ -0.4440916, 53.6633987 ], [ -0.444024, 53.6609295 ], [ -0.4436625, 53.6607794 ], [ -0.4397786, 53.6608684 ], [ -0.4397357, 53.6586051 ], [ -0.4396713, 53.6565197 ], [ -0.4393924, 53.6562781 ], [ -0.4320753, 53.6564179 ] ] } }
+]
+}

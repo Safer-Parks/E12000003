@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASRI_421_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 128070442, "highway": "path", "name": null, "category": "Shared path", "foot": null, "access": "unknown", "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1737858, 53.9331428 ], [ -0.1745286, 53.9327376 ], [ -0.174718, 53.9326343 ], [ -0.1748319, 53.9325602 ], [ -0.1749567, 53.9325095 ], [ -0.1750587, 53.9324622 ], [ -0.1750652, 53.932437 ], [ -0.1747033, 53.9319254 ], [ -0.1746866, 53.931897 ] ] } }
+]
+}

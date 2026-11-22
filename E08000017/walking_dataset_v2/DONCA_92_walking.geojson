@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DONCA_92_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 335660407, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2390942, 53.5987593 ], [ -1.2365998, 53.5989821 ], [ -1.2359989, 53.5990713 ], [ -1.2353062, 53.5992157 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1254526520, "highway": "bridleway", "name": null, "category": "Bridleway", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2279476, 53.6066605 ], [ -1.2279197, 53.606742 ], [ -1.2278903, 53.6070887 ], [ -1.2279603, 53.6084485 ], [ -1.2280097, 53.6118756 ], [ -1.22811, 53.6149251 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 615485275, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": "yes", "access": null, "designatn": "public_footpath", "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2197341, 53.6023545 ], [ -1.2201025, 53.6021944 ] ] } }
+]
+}
